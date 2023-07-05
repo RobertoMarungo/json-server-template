@@ -20,28 +20,28 @@
     },
     {
       "id": 3,
-      "name": "Sedris, the Traitor King",
+      "name": "Edgar Markov",
       "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
-      "rarity": "Mythic",
+      "rarity": "Rare",
       "legality": "Legal",
-      "text": "Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar Markov is in the command zone or on the battlefield, create a 1/1 black Vampire creature token. First strike, haste Whenever Edgar Markov attacks, put a +1/+1 counter on each Vampire you control."
 
     },
     {
       "id": 4,
-      "name": "Sedris, the Traitor King",
-      "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
+      "name": "The Ur-Dragon",
+      "image": "https://cards.scryfall.io/normal/front/1/0/10d42b35-844f-4a64-9981-c6118d45e826.jpg?1676994966",
       "rarity": "Mythic",
       "legality": "Legal",
-      "text": "Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+      "text": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast. Flying Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield."
 
     },{
       "id": 5,
-      "name": "Sedris, the Traitor King",
-      "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
+      "name": "Morophon, the Boundless",
+      "image": "https://cards.scryfall.io/normal/front/9/6/9693e59b-032d-4ddc-a7d1-88a0f52dcc6c.jpg?1676913841",
       "rarity": "Mythic",
       "legality": "Legal",
-      "text": "Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+      "text": "Changeling (This card is every creature type.) As Morophon, the Boundless enters the battlefield, choose a creature type. Spells of the chosen type you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay. Other creatures you control of the chosen type get +1/+1.)"
 
     }
   ]
