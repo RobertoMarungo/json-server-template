@@ -11,11 +11,11 @@
     },
     {
       "id": 2,
-      "name": "Sedris, the Traitor King",
-      "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
+      "name": "Atraxa, Praetors' Voice",
+      "image": "https://cards.scryfall.io/normal/front/d/0/d0d33d52-3d28-4635-b985-51e126289259.jpg?1599707796",
       "rarity": "Mythic",
       "legality": "Legal",
-      "text": "Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+      "text": "Flying, vigilance, deathtouch, lifelink At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 
     },
     {
