@@ -10,7 +10,7 @@
 
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Sedris, the Traitor King",
       "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
       "rarity": "Mythic",
@@ -19,7 +19,7 @@
 
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Sedris, the Traitor King",
       "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
       "rarity": "Mythic",
@@ -28,7 +28,7 @@
 
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Sedris, the Traitor King",
       "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
       "rarity": "Mythic",
@@ -36,7 +36,7 @@
       "text": "Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
 
     },{
-      "id": 1,
+      "id": 5,
       "name": "Sedris, the Traitor King",
       "image": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571607&type=card",
       "rarity": "Mythic",
